@@ -4,3 +4,5 @@ python-dotenv
 reportlab
 jinja2
 PyPDF2
+fpdf
+
