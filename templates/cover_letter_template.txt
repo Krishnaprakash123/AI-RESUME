@@ -1,0 +1,17 @@
+Subject: Application for {TARGET_ROLE} Position
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the {TARGET_ROLE} position at your esteemed organization.
+
+With a background in {EDUCATION} and hands-on experience in {SKILLS}, I have developed strong technical and problem-solving skills. My project work, including {PROJECTS}, has helped me gain practical exposure and build real-world solutions.
+
+I am highly motivated, quick to learn, and passionate about contributing effectively to your team.
+
+I would welcome the opportunity to further discuss how my skills align with your requirements.
+
+Thank you for your time and consideration.
+
+Sincerely,
+{NAME}
+Email: {EMAIL}

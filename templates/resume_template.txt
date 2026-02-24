@@ -1,0 +1,39 @@
+==============================
+{NAME}
+Email: {EMAIL}
+Phone: {PHONE}
+LinkedIn: {LINKEDIN}
+==============================
+
+PROFESSIONAL SUMMARY
+--------------------------------------------------
+Motivated and results-driven {TARGET_ROLE} with strong skills in {SKILLS}. 
+Experienced in building impactful projects and solving real-world problems.
+
+EDUCATION
+--------------------------------------------------
+{EDUCATION}
+
+TECHNICAL SKILLS
+--------------------------------------------------
+{SKILLS}
+
+PROJECTS
+--------------------------------------------------
+{PROJECTS}
+
+EXPERIENCE (If any)
+--------------------------------------------------
+{EXPERIENCE}
+
+CERTIFICATIONS
+--------------------------------------------------
+{CERTIFICATIONS}
+
+ACHIEVEMENTS
+--------------------------------------------------
+{ACHIEVEMENTS}
+
+DECLARATION
+--------------------------------------------------
+I hereby declare that the above information is true to the best of my knowledge.
